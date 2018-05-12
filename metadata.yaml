@@ -1,0 +1,36 @@
+_repo: The-RomancersA-Comedy-in-Three-Acts_17581
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Clark, Barrett H. (Barrett Harper)
+    alias: Clark, Barrett Harper
+    birthdate: 1890
+    deathdate: 1953
+    gutenberg_agent_id: '7471'
+    url: http://www.gutenberg.org/2009/agents/7471
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rostand, Edmond
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '575'
+    url: http://www.gutenberg.org/2009/agents/575
+    wikipedia: http://en.wikipedia.org/wiki/Edmond_Rostand
+description: ''
+gutenberg_issued: '2006-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17581'
+  lccn: '15014914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- Translations into English'
+title: 'The Romancers: A Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/17581
